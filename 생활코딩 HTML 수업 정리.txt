@@ -1,0 +1,37 @@
+HTML 인터넷에서 열기 : Ctrl + O
+
+<title></title> : 웹 제목설정
+<meta charset=""> : 웹브라우저에서 여는 방식(맞지 않으면 글자 깨짐)
+
+<u></u> : 밑줄 (underline)
+<strong></strong> : 진하게
+<h1></h1> : h1~h6 제목 태그
+(1일수록 크고, 두께와 줄바꿈도 적용)
+<br> : 줄 바꿈 (닫는 태그 없음)
+<p></p> : 단락을 나누는 태그
+<img src="" width=""> : 이미지, 이미지 너비
+<li></li> : 리스트 작성 시(동그라미)
+<ul></ul> : 리스트 그룹핑을 하기 위한 장치(경계)(Unorderled List)
+<ol></ol> : 숫자를 안써도 자동으로 넘버링(Ordered List)
+Tab키 : 들여쓰기
+
+<!doctype html> : <html> 위에 쓰이며 "이 문서는 html이다"를 명시
+<html></html> : 전부를 감싸는 최고위층 태그
+<head></head> : 본문을 설명하는 태그(웹 제목설정등)
+<body></body> : 본문
+
+
+<a href=""></a> : 앵커의 약자로 링크를 거는 태그(앵커 하이퍼택스트 레퍼런스)
+<a href="" target="_blank" title="html5 specification"></a> : 
+링크 태그, 태그의 새 탭, 부가설명 툴팁
+
+
+
+<p style="margin-top:40px;"><p/> : CSS, 윗 여백 40px 지정 
+
+http://www.unsplash.com : 고화질 이미지 사이트
+https://www.advancedwebranking.com/html : 태그 통계 정리 사이트
+
+<span style="font-size:24px">coding</span> vs <h3>coding</h3>
+: 전자는 정보성이 없기 때문에 헤드라인인 후자가 검색엔진에 적합하다.
+
